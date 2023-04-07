@@ -352,6 +352,15 @@ LSB_FOUND:BOOL=TRUE
 //Path to a program.
 LSB_RELEASE_EXECUTABLE:FILEPATH=/usr/bin/lsb_release
 
+//Value Computed by CMake
+Lab_2_BINARY_DIR:STATIC=/home/mohamed/ros_auto_ws/build/Lab_2
+
+//Value Computed by CMake
+Lab_2_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+Lab_2_SOURCE_DIR:STATIC=/home/mohamed/ros_auto_ws/src/Lab_2
+
 //Path to a program.
 NOSETESTS:FILEPATH=/usr/bin/nosetests3
 

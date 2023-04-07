@@ -1,2 +1,2 @@
-beginner_tutorials
+Lab_2:beginner_tutorials
 -DCATKIN_DEVEL_PREFIX=/home/mohamed/ros_auto_ws/devel -DCMAKE_INSTALL_PREFIX=/home/mohamed/ros_auto_ws/install -G Unix Makefiles
