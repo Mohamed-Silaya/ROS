@@ -1,0 +1,4 @@
+<launch>
+    <node name="prog1" pkg="ass1" type="prog1.py" />
+    <node name="prog2" pkg="ass1" type="prog2.py" output="screen" />
+</launch>
